@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkvue_cli=self.webpackChunkvue_cli||[]).push([[555],{555:function(u,e,n){n.r(e),n.d(e,{default:function(){return a}});var r=n(252);const t={class:"about"};var c={};var a=(0,n(744).Z)(c,[["render",function(u,e,n,c,a,i){return(0,r.wg)(),(0,r.iD)("div",t," about页面 ")}]])}}]);
+//# sourceMappingURL=555.124c7b0b2b.chunk.js.map
